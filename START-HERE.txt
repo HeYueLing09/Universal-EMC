@@ -1,9 +1,0 @@
-Universal EMC 0.1.0-alpha
-
-Minecraft 1.20.1 + Forge 47.x + ProjectE 1.0.1
-
-將同層 JAR 放進 mods。API 預設停用。
-完整繁中說明：source/README.md
-驗證記錄：source/docs/VALIDATION.md
-
-此版為 Alpha；特殊配方採估值，不能保證所有整合包的經濟平衡。
