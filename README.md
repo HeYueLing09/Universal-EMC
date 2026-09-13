@@ -9,3 +9,6 @@ ProjectE 個人附屬
 | `/uemc preview` | 只計算、產生報告，不修改 EMC |
 | `/uemc status` | 查看目前處理狀態 |
 | `/uemc reset` | 移除本模組管理的 EMC 設定，並關閉自動掃描 |
+## API 設定
+
+使用個人 API 的設定方式，請參閱 [API 設定教學](API.md)。
