@@ -1,0 +1,15 @@
+Universal EMC 0.1.1-alpha — 稀有度崩潰修正版
+Minecraft 1.20.1 + Forge 47.x + ProjectE 1.0.1
+
+1. 關閉遊戲／伺服器。
+2. 刪除 mods 中的 universal-emc-1.20.1-forge-0.1.0-alpha.jar。
+3. 將本壓縮檔同層的 0.1.1-alpha.jar 放進 mods；不要同時保留兩版。
+4. 保留原本設定，重新啟動遊戲。
+
+修復 Snapshot.java:38 的 IncompatibleClassChangeError。
+通過自訂稀有度 Forge 測試物品的掃描、套用、重掃及重置。
+未完整重現你的 Windows 整合包。特殊配方估值仍需檢查。
+API 預設停用。未知稀有度採 fallbackEmc，可使用設定規則覆寫。
+完整說明：source/README.md
+修正說明：source/CHANGELOG.md
+驗證記錄：source/docs/VALIDATION.md
